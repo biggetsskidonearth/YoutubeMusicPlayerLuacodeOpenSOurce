@@ -1,6 +1,7 @@
 --[[
 This script was made for an suggestion to hopefully get this into the popular admin script called Novoline
 join theyre server please https://discord.gg/b7gpJTJ9pE or discord.gg/novo-line theyre website is https://novoline.pro
+made possible with me @thedude_whotalks on discord and with railway.com for the server to always stay online
 --]]
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
